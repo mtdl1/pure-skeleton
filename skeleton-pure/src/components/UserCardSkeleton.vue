@@ -27,7 +27,12 @@ import AnimatedPlaceholder from './AnimatedPlaceholder.vue';
   gap: 8px;
   width: 100%;
 }
+
+
+/* responsivo */
+@media (max-width: 620px) {
 .titulo{
   margin: 0 auto;
+}
 }
 </style>
