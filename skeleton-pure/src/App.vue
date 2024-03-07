@@ -27,6 +27,10 @@ import UserCardSkeleton from './components/UserCardSkeleton.vue';
   font-family: "Anta", sans-serif;
 }
 
+body{
+  background-color: #3c3c3c;
+}
+
 main{
   max-width: 620px;
   margin: 0 auto;
