@@ -28,7 +28,7 @@ import UserCardSkeleton from './components/UserCardSkeleton.vue';
 }
 
 body{
-  background-color: #3c3c3c;
+  background-color: #F1F2EE;
 }
 
 main{
@@ -37,7 +37,7 @@ main{
   display: flex;
   flex-direction: column;
   gap: 16px;
-  height: 100vh;
+  height: 100dvh;
   justify-content: center;
 }
 </style>
